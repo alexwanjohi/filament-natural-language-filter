@@ -23,7 +23,7 @@
         "php": "^8.2",
         "laravel/framework": "^12.0",
         "filament/filament": "^3.2",
-        "openai-php/laravel": "^0.8.4",
+        "openai-php/laravel": "^0.13",
         "illuminate/support": "^12.0"
     },
     "require-dev": {
